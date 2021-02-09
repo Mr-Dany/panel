@@ -1,0 +1,9 @@
+C:\Users\toshi\Desktop\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\toshi\Desktop\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\toshi\Desktop\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
