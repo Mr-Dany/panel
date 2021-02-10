@@ -10,7 +10,7 @@ namespace Dominio
         public string tipo { get; set; }
         public bool eliminado { get; set; }
 
-        public ICollection<usuario> usuariolista { get; set; }
+        public ICollection<usuarios> usuariolista { get; set; }
         
         
     }
