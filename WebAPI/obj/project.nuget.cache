@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iGkILUlzvUsiXJpo8O6bTN+o7yyrd0KXAXicla2Gh8AUwLKiKLZLxcJu1t5YS4bqLOE7s7jWLQfNaM7JVFClKw==",
+  "dgSpecHash": "q5y2CzNp2LRvRU4V8FWuemwaHiyYCeNRf453qTLQs/BjQS5DD1C5XylfrLTXzPI0nir63J6jt0FQeWVAdXpLMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

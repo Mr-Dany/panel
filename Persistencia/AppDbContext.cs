@@ -12,7 +12,7 @@ namespace Persistencia
         //protected override void OnModelCreating(ModelBuilder modelBuilder) {
         //    modelBuilder.Entity<tipousuario>().HasKey(ci => new { ci.idtipousuario });
         //}
-        public DbSet<usuario> usuario { get; set; }
+        public DbSet<usuarios> usuarios { get; set; }
         public DbSet<tipo_usuarios> tipo_usuarios { get; set; }
     
     }
