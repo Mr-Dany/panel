@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Dominio;
+using Microsoft.AspNetCore.Mvc;
+using Persistencia;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,11 +14,18 @@ namespace WebAPI.Controllers
     [ApiController]
     public class UsuariosController : ControllerBase
     {
+
+        private readonly AppDbContext context;
+
+        public UsuariosController(AppDbContext context)
+        {
+            this.context = context;
+        }
         // GET: api/<UsuariosController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<usuarios> Get()
         {
-            return new string[] { "value1", "value2" };
+            return context.usuarios.ToList();
         }
 
         // GET api/<UsuariosController>/5
