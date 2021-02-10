@@ -136,3 +136,5 @@ C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\obj\Debug\netcore
 C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
