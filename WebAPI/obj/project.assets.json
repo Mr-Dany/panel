@@ -5852,19 +5852,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\toshi\\.nuget\\packages\\": {}
+    "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toshi\\Desktop\\panel\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\toshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toshi\\Desktop\\panel\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\toshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roberto Loaiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5878,11 +5878,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\toshi\\Desktop\\panel\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Aplicacion\\Aplicacion.csproj"
             },
-            "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj"
+            "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj"
             }
           }
         }
