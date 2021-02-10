@@ -7,3 +7,12 @@ C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInf
 C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\toshi\Desktop\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

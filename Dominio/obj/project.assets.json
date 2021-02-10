@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\toshi\\.nuget\\packages\\": {}
+    "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\toshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\toshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roberto Loaiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

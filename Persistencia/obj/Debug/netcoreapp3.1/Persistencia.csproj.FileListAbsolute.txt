@@ -13,3 +13,18 @@ C:\Users\toshi\Desktop\panel\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\toshi\Desktop\panel\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
 C:\Users\toshi\Desktop\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
 C:\Users\toshi\Desktop\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Roberto Loaiza\Desktop\progrmacion tesis\panel\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache

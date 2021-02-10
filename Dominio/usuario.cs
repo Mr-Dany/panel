@@ -1,7 +1,10 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace Dominio
 {
     public class usuario
-    {
+    {    
+        [Key]
         public int idusuario { get; set; }
         public string primernombre { get; set; }
         public string segundonombre { get; set; }
@@ -13,6 +16,6 @@ namespace Dominio
         public bool eliminado { get; set; }
         
         public int idtipousuario { get; set; }
-        public tipousuario tipousuario { get; set; }
+        public tipo_usuarios tipo_usuarios { get; set; }
     }
 }

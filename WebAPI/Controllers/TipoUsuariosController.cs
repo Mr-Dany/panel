@@ -18,8 +18,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace WebAPI.Controllers
 {
-    [Route("api/[controller]")]
+
     [ApiController]
+    [Route("api/[controller]")]
+  
     public class TipoUsuariosController : ControllerBase
     {
         private readonly AppDbContext context;
@@ -31,9 +33,9 @@ namespace WebAPI.Controllers
 
         // GET: api/<TipoUsuariosController>
         [HttpGet]
-        public IEnumerable<tipousuario> Get()
+        public IEnumerable<tipo_usuarios> Get()
         {
-            return context.tipousuario.ToList();
+            return context.tipo_usuarios.ToList();
         }
 
         // GET api/<TipoUsuariosController>/5

@@ -5814,19 +5814,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\toshi\\.nuget\\packages\\": {}
+    "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toshi\\Desktop\\panel\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\Persistencia\\Persistencia.csproj",
-      "packagesPath": "C:\\Users\\toshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toshi\\Desktop\\panel\\Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Roberto Loaiza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\toshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roberto Loaiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5840,8 +5840,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\toshi\\Desktop\\panel\\Dominio\\Dominio.csproj"
+            "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Roberto Loaiza\\Desktop\\progrmacion tesis\\panel\\Dominio\\Dominio.csproj"
             }
           }
         }
